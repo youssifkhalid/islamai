@@ -1,0 +1,14 @@
+1. Upload project to GitHub.
+2. Go to https://vercel.com
+3. Import Git Repository.
+4. Framework preset should auto-detect.
+5. Click Deploy.
+
+If environment variables are required:
+- Open Project Settings
+- Environment Variables
+- Add values from your .env file
+
+Common commands:
+Build Command: npm run build
+Install Command: npm install
